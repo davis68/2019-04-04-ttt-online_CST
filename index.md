@@ -169,7 +169,7 @@ site.swc_site }}/conduct/">Code of Conduct</a>.
 
 
 <h3 id="contact">Contact</h3>
-
+<p>
   Please email
   {% if page.contact %}
     {% for contact in page.contact %}
